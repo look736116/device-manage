@@ -29,7 +29,7 @@
 	<!-- Version Control -->
 	<properties>
 		<!-- spring version -->
-		<spring.version>4.2.5.RELEASE</spring.version>
+		<spring.version>5.2.7.RELEASE</spring.version>
 
 		<!-- jackson version -->
 		<jackson.version>2.5.4</jackson.version>
